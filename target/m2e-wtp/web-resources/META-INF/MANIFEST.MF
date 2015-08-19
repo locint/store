@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: gs-spring-boot
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.7.0_45
+Built-By: sweetone
+Created-By: Maven Integration for Eclipse
+
